@@ -8,9 +8,7 @@ Tomas Rodriguez</a></h1>
 
 - 🌱 I’m currently learning Software Development in <a href="https://web.upe.edu.ar/" target="blank">Universidad Provincial de Ezeiza</a> and working on Data Analysis (Python)
 
-- 📫 How to reach me **axelsoubestte@gmail.com**
-
-- 📄 Know about <a href="https://github.com/AxelSoubeste?tab=repositories" target="blank">my experiences</a>
+- 📫 How to reach me **toms.ezequiel02@gmail.com**
 <br/>
 
 ## My Skills Include
